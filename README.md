@@ -75,13 +75,14 @@ I am a 19-year-old BSc CSIT student from Nepal with a passion for full-stack dev
 
 ---
 
+
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddantasodari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddantasodari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddanta-ar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddanta-ar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/siddantasodari/siddantasodari/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/siddanta-ar1/siddanta-ar1/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
