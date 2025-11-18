@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=[Your%20Name]&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,35&height=280&section=header&text=Siddanta%20Sodari&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Next.js);Future+Quantum+Researcher;Founder+%40+ScholarsPoint;Admin+%40+QubitsForChange;Building+Tech+for+Impact" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]">
+  <a href="https://www.linkedin.com/in/siddanta-sodari-08596a335/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your-email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:siddantasodari123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://[your-website]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://github.com/siddantasodari"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -20,33 +23,65 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name or Type of Dev]**.
-- 🌱 I’m currently learning **[New Language or Framework]**.
-- 👯 I’m looking to collaborate on **[Open Source projects / Hackathons]**.
-- 🎓 I am currently a student at **[University Name]**.
-- ⚡ Fun fact: **[Insert a fun fact about you]**.
+I am a 19-year-old BSc CSIT student from Nepal with a passion for full-stack development and the emerging field of Quantum Computing. I love building platforms that create real social impact.
+
+- 🔭 I’m currently working as a **Software Developer Intern @ Great Bear Technologies**.
+- 🌱 I’m currently exploring **Quantum Information Technology & Advanced Next.js Patterns**.
+- 🤝 I’m the **Vice President** of the Birendra Open Source Club (BOSC).
+- 🎓 I am pursuing my **Bachelors in CSIT** at IOST, Tribhuvan University (2024-2028).
+- ⚡ **Mission:** To bridge the gap between modern web tech and scientific research.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
 <div align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Work Experience
+
+| Company | Role | Duration | Stack |
+| :--- | :--- | :--- | :--- |
+| **Great Bear Technologies** | Software Developer (Intern) | May 2025 - Present | Next.js, PostgreSQL, QA |
+| **Remote Sensing & Georesearch** | Web Developer | Mar 2024 - Present | Next.js, Web Maintenance |
+
+---
+
+### 💻 Key Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **ScholarsPoint** | Founder & Developer. Educational platform. | [Visit Site](https://www.scholarspoint.net/) |
+| **RSGRT Official** | Corporate website for Georesearch Institute. | [Visit Site](https://www.rsgrt.com.np/) |
+| **QubitsForChange** | Admin/Community Lead. Promoting Quantum Tech. | [View Page](https://www.linkedin.com/company/qubitsforchange/) |
+
+---
+
+### 🏆 Community Leadership
+
+* **Vice President:** Birendra Open Source Club (BOSC)
+* **Active Member:** Code For Change, QNepal, Birendra IT Club
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddantasodari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddantasodari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="streak graph" />
+  <img src="https://github.com/siddantasodari/siddantasodari/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
