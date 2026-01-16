@@ -102,15 +102,7 @@ Currently pursuing **BSc CSIT** at Tribhuvan University while leading tech commu
 
 ---
 
-## 📊 GitHub Stats
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddanta-ar1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🏅 Badges & Achievements
 
