@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:00E5A0&height=220&section=header&text=Siddanta%20Sodari&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Serial%20Tech%20Entrepreneur%20%C2%B7%20Full-Stack%20%26%20AI%20Systems%20Engineer%20%C2%B7%20Nepal&descAlignY=54&descSize=18&animation=fadeIn" alt="Siddanta Sodari" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:00E5A0&height=220&section=header&text=Siddanta%20Sodari&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Serial%20Tech%20Entrepreneur%20%C2%B7%20Full-Stack%20and%20AI%20Systems%20Engineer%20%C2%B7%20Nepal&descAlignY=54&descSize=18&animation=fadeIn" alt="Siddanta Sodari" />
 </div>
 
 <div align="center">
@@ -260,7 +260,7 @@ Real users, real payments, real uptime.
 [![BOSC](https://img.shields.io/badge/Vice_President-Birendra_Open_Source_Club-00E5A0?style=for-the-badge&labelColor=0D1117)](http://bosc.org.np/)
 [![CFC](https://img.shields.io/badge/PR_Lead-Code_For_Change-FF6B35?style=for-the-badge&labelColor=0D1117)](https://github.com/siddanta-ar1)
 [![Superteam](https://img.shields.io/badge/Builder-Superteam_Nepal-9945FF?style=for-the-badge&logo=solana&labelColor=0D1117)](https://github.com/siddanta-ar1)
-[![QNepal](https://img.shields.io/badge/Member-QNepal_·_QubitsForChange-6E44FF?style=for-the-badge&labelColor=0D1117)](https://github.com/siddanta-ar1)
+[![QNepal](https://img.shields.io/badge/Member-QNepal_%C2%B7_QubitsForChange-6E44FF?style=for-the-badge&labelColor=0D1117)](https://github.com/siddanta-ar1)
 
 </div>
 
